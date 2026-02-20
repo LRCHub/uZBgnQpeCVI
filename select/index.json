@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "無垢",
+  "base_artist": "ゲスの極み乙女。",
+  "createdAt": "2026-02-20T13:25:40.375669Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "無垢",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/01_無垢_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "無垢",
+      "artist": "李浩瑋 Howard Lee",
+      "has_synced": true,
+      "path": "select/02_無垢_李浩瑋_Howard_Lee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "無垢",
+      "artist": "己龍",
+      "has_synced": true,
+      "path": "select/03_無垢_己龍.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "無垢",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/04_無垢_DUSTCELL.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無垢",
+      "artist": "ゲスの極み乙女。",
+      "has_synced": false,
+      "path": "select/pl_01_無垢_ゲスの極み乙女。.txt"
+    }
+  ]
+}
